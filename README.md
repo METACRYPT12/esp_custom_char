@@ -18,4 +18,10 @@ The HD47780 provides the option of creating and storing upto 8 custom characters
 
 ## Video Demonstration
 
-![Video Demonstration](https://github.com/METACRYPT12/esp_custom_char/blob/master/res/vid_demo.mp4)
+https://github.com/METACRYPT12/esp_custom_char/assets/82610170/561d21cd-d98b-4cae-907a-bdf4aaa7c497
+
+
+
+
+
+
